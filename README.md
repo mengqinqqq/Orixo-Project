@@ -1,2 +1,2 @@
 # Orixo-Project
-code is list in code fiel
+orixo code is list in code
