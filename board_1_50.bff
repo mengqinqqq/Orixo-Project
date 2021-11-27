@@ -1,0 +1,28 @@
+# This is a comment
+#this is also a comment but looks ugly
+#   x: this block cannot be filled
+#   o: this block can be filled
+#   n: the number of positions that can be filled
+#   The different grids are separated from eahc other by a new line
+
+GRID START
+4  o  o  o  o  o  5
+o  x  x  x  x  x  x
+o  x  x  x  x  x  x
+o  x  x  x  x  x  x
+o  4  o  o  o  o  x
+x  x  x  x  x  x  2
+x  x  x  x  x  x  o
+x  x  x  x  x  x  o
+o  o  o  o  o  5  x
+
+x  4  o  o  o  o  x
+6  x  x  x  x  x  o
+o  x  x  x  x  x  o
+o  x  x  x  x  x  o
+o  x  x  x  x  x  o
+o  x  x  x  x  x  o
+o  x  x  x  x  x  o
+o  x  x  x  x  x  6
+x  4  o  o  o  o  x
+GRID STOP

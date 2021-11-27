@@ -1,0 +1,13 @@
+# This is a comment
+#this is also a comment but looks ugly
+#   x: this block cannot be filled
+#   o: this block can be filled
+#   n: the number of positions that can be filled
+
+GRID START
+x  2  2  3  x  x
+x  1  o  o  1  x
+x  o  o  o  1  x
+2  o  o  o  o  o
+x  x  o  o  x  x
+GRID STOP
