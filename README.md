@@ -8,6 +8,13 @@ Orixo is a puzzle game, in this game user need to fill the blocks with the corre
 Get the .bff file of the game. 
 below is an example of the .bff file.
 
+
+
+
+<img width="900" height="400" src=https://github.com/mengqinqqq/Orixo-Project/blob/main/%E6%88%AA%E5%B1%8F2022-01-07%20%E4%B8%8A%E5%8D%8812.11.19.png>
+
+
+
 This is a comment/n
 this is also a comment but looks ugly/n
 x: this block cannot be filled
