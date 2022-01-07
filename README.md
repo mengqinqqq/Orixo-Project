@@ -8,12 +8,12 @@ Orixo is a puzzle game, in this game user need to fill the blocks with the corre
 Get the .bff file of the game. 
 below is an example of the .bff file.
 
-# This is a comment
-#this is also a comment but looks ugly
-# x: this block cannot be filled
-# o: this block can be filled
-# n: the number of positions that can be filled
-# The different grids are separated from each other by a new line
+This is a comment/n
+this is also a comment but looks ugly/n
+x: this block cannot be filled
+o: this block can be filled
+n: the number of positions that can be filled
+The different grids are separated from each other by a new line
 
 GRID START
 4 o o o o o 5
