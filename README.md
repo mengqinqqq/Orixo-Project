@@ -11,38 +11,8 @@ below is an example of the .bff file.
 
 
 
-<img width="900" height="400" src=https://github.com/mengqinqqq/Orixo-Project/blob/main/%E6%88%AA%E5%B1%8F2022-01-07%20%E4%B8%8A%E5%8D%8812.11.19.png>
+<img width="900" height="900" src=https://github.com/mengqinqqq/Orixo-Project/blob/main/%E6%88%AA%E5%B1%8F2022-01-07%20%E4%B8%8A%E5%8D%8812.11.19.png>
 
-
-
-This is a comment/n
-this is also a comment but looks ugly/n
-x: this block cannot be filled
-o: this block can be filled
-n: the number of positions that can be filled
-The different grids are separated from each other by a new line
-
-GRID START
-4 o o o o o 5
-oxxxxxx
-oxxxxxx
-oxxxxxx
-o4oooox
-xxxxxx2
-xxxxxxo
-xxxxxxo
-ooooo5x
-
-x4oooox
-6xxxxxo
-oxxxxxo
-oxxxxxo
-oxxxxxo
-oxxxxxo
-oxxxxxo
-oxxxxx6
-x4oooox
-GRID STOP
 
 ## How to solve the problem by using our code?
 
